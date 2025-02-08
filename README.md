@@ -1,9 +1,9 @@
-# Online Food Ordering Behavior Analysis
-## Overview
+# Online Food Ordering Behavior Analysis 📈📊
+## 📌 Overview
 This project analyzes online food ordering behavior using customer data, including demographics, feedback, and ordering experience. The goal is to identify key factors influencing customer decisions and improve service strategies for food delivery businesses. The analysis involves data preprocessing, exploratory data analysis (EDA), and machine learning models to predict customer behavior.
 
 ---
-## Project Features
+## 🚀 Project Features
   - Customer Behavior Insights: Analyzes customer demographics (age, gender, income, marital status) affecting food ordering patterns.
   - Feedback Analysis: Evaluated customer satisfaction based on service experience.
   - Predictive Modeling: Used machine learning to predict ordering behavior.
@@ -11,7 +11,7 @@ This project analyzes online food ordering behavior using customer data, includi
   - Data Preprocessing: Cleaned and prepared raw data for analysis.
 
 ---
-## Tech Stack & Skills
+## 🛠️ Tech Stack & Skills
   - Python (Data analysis & preprocessing)
   - Pandas, NumPy (Data manipulation)
   - Matplotlib, Seaborn (Data visualization)
@@ -19,13 +19,13 @@ This project analyzes online food ordering behavior using customer data, includi
   - Power BI (Interactive dashboards & insights)
 
 ---
-## Dataset Used
+## 📂 Dataset Used
   - Customer information: Age, gender, marital status, occupation, income level, education, family size.
   - Ordering details: Location, feedback, service experience.
   - Data processed through EDA and ML models for deeper insights.
 
 ---
-## Use Cases
+## 🎯 Use Cases
   - Helps food delivery platforms optimize marketing strategies.
   - Enables restaurants to tailor promotions based on customer segments.
   - Assists business analysts in predicting future food ordering trends.
